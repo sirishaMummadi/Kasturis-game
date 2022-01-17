@@ -1,0 +1,51 @@
+KASTURI'S GAME
+
+Story - The game is based on space including the asteroids and aliens attacking earth
+        where 4 of the players will be trying to save the earth.
+
+Players - 4
+
+Multiplayer game
+
+Enemies --> asteroids and aliens(computer players)
+
+Login form --- for players to login 
+
+Animations and Images ---> 4 different rockets, sound for shooting bullets 
+misiles,aliens images,background image,
+
+
+********
+
+
+Every player is active on all the other player screens but should be invisible .
+Only the current player will be visible.
+
+platform to ode ===> code.org , VS , P5 editor
+
+
+Structure :
+===========
+p5 libraries ===>
+
+login form ---> login.js
+game strategy ----> game.js
+player ---> player.js
+
+index.html 
+style.css
+
+sketch.js---> canvas , making it adapt to the screen ,loading all the Images
+
+make a floder of images (png,jpeg,gif)
+
+
+
+
+
+
+
+
+
+
+
